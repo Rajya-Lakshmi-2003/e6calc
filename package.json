@@ -1,0 +1,18 @@
+{
+    "name":"calculator",
+    "version": "0.0.1",
+    "main": "calc",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/Rajya-Lakshmi-2003/Calculatore6"
+    },
+    "keywords": [
+        "calc",
+        "5E6-Calculator","calculator"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node":"*"
+    }
+
+}
